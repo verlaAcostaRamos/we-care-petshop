@@ -25,6 +25,9 @@ header {
     color: #989D9C;
     cursor: pointer;
     margin-right: 24px;
+    text-decoration: none;
+    border-right: 5px solid rgb(76, 76, 133);
+    padding-right: 10px;
 }
 .button-header{
     background: #665AE1;
